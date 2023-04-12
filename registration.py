@@ -1,3 +1,5 @@
+# This Player Registration is for the Players to register for their participation for their tournament
+
 from tkinter import *
 import mysql.connector as c
 
